@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+data/
+# Si tus notebooks generan archivos temporales:
+.ipynb_checkpoints/
